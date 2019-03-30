@@ -1,3 +1,5 @@
+package org.fasttrackit.catel;
+
 import java.util.Scanner;
 
 public class CarsGame {
